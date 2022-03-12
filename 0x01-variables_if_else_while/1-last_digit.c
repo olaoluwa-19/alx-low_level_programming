@@ -5,7 +5,7 @@
 /**
  * main - main function
  *
- * Description: main function prints the last digit of the random
+ * Description: the main function prints the last digit of the random
  * number stored in the variable n
  * Returns: Always 0 (Success)
 */
