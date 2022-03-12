@@ -3,9 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - main function 
- * Description: the main assigns a random number to int n everytime
- * It executes, and prints it
+ * main - main function
+ *  
+ * Description: the main function
+ * Puts text to stout
+ * But you're totally free to use several lines to properly 
  * Return: 0
  */
 int main(void)
