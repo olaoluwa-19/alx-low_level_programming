@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - main function
- * 
+ * main - main function 
  * Description: the main assigns a random number to int n everytime
  * It executes, and prints it
  * Return: 0
