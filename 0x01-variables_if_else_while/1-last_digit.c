@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * Main - main function
+ * main - main function
  *
  * Description: main function prints the last digit of the random
  * number stored in the variable n
- * Returns: 0
+ * Returns: Always 0 (Success)
 */
 int main(void)
 {
