@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/***
+/**
  * main - main function
  * Description: the main function prints the lowercase alphabet
  * in reverse, followed by a new line
