@@ -3,8 +3,8 @@
 /**
  * main - main function
  *
- * Description: the main function prints the alphabet in lowercase, and in uppercase
- * followed by a new line
+ * Description: the main function prints the alphabet in lowercase
+ * and in uppercase, followed by a new line
  * Return: Always 0 (Success)
 */
 int main(void)
