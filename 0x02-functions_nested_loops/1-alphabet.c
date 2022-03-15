@@ -2,7 +2,7 @@
 
 /**
  * main - check description
- * Description: the main function is to print all the alphabet in lowercase
+ * Description: the main functio prints all the alphabet in lowercase
  * followed by a new line
  * Return: Always 0
 */
