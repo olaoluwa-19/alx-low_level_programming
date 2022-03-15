@@ -9,15 +9,12 @@
 */
 int main(void)
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
+	char word[9] = "_putchar\n";
+	int i;
 
+	for (i = 0; i < 9; i++)
+	{
+		_putchar(word[i]);
+	}
 	return (0);
 }
