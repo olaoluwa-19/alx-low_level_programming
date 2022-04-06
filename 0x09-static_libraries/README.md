@@ -1,1 +1,1 @@
-C - Static libraries
+Creating a static library in C programming
